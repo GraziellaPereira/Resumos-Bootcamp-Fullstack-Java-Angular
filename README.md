@@ -12,7 +12,8 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 ## 🖥 Resumos das Aulas
 | Aulas | Resumos | 
 | -------- | -------- | 
-| Versionamento de código com Git e GitHub | [Primeiro resumo](https://docs.google.com/document/d/1zN7T-wsKHgfkkKPtnHbgZ1knNnPymIlK3FOhCrG_DKY/edit?usp=sharing)
+| Versionamento de código com Git e GitHub | [Primeiro resumo](https://docs.google.com/document/d/1zN7T-wsKHgfkkKPtnHbgZ1knNnPymIlK3FOhCrG_DKY/edit?usp=sharing) | 
+| Introdução a criação de websites com HTML5 e CSS3 | [Segundo resumo](https://docs.google.com/document/d/1MI6XTTu-7JDUFlrjUK2ewdQ_VKjhCIzqAxGLohk3dn0/edit?usp=sharing) | 
 
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
