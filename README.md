@@ -15,6 +15,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | Versionamento de código com Git e GitHub | [Primeiro resumo](https://docs.google.com/document/d/1zN7T-wsKHgfkkKPtnHbgZ1knNnPymIlK3FOhCrG_DKY/edit?usp=sharing) | 
 | Introdução a criação de websites com HTML5 e CSS3 | [Segundo resumo](https://docs.google.com/document/d/1MI6XTTu-7JDUFlrjUK2ewdQ_VKjhCIzqAxGLohk3dn0/edit?usp=sharing) | 
 | Sintaxe básica em JavaScript | [Terceiro resumo](https://docs.google.com/document/d/16_f5zTYK9a68aBLMSx2qOn_BpxXIBE-s90CC3RkChPo/edit?usp=sharing) | 
-
+| Introdução ao desenvolvimento web com JS | [Quarto resumo](https://docs.google.com/document/d/1RCXvXYEp8X9AMm6tL2TKk-cMDJeB94sMIqnzYvjc36Y/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
