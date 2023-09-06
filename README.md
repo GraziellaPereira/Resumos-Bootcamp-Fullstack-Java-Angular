@@ -18,6 +18,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | Introdução ao desenvolvimento web com JS | [Quarto resumo](https://docs.google.com/document/d/1RCXvXYEp8X9AMm6tL2TKk-cMDJeB94sMIqnzYvjc36Y/edit?usp=sharing) |
 | Trabalhando com Web Components no Front End | [Quinto resumo](https://docs.google.com/document/d/1moP3lHuP88WnWwInBPLEv9eqv6X5wbnaTDs7KR-ibVs/edit?usp=sharing) |
 | Typescript para Angular | [Sexto resumo](https://docs.google.com/document/d/1ZjKqGOWLRpvpCFkn7AWe9OC0OWoguwrS60EzPqdcYKU/edit?usp=sharing) |
-
+| Introdução ao ecossistema Angular | [Sétimo resumo](https://docs.google.com/document/d/1zDCECqDm524wIoFZJ882plL-6MnoNUynrfGGNo8PIX8/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
