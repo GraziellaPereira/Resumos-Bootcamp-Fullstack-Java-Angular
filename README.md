@@ -19,5 +19,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | Trabalhando com Web Components no Front End | [Quinto resumo](https://docs.google.com/document/d/1moP3lHuP88WnWwInBPLEv9eqv6X5wbnaTDs7KR-ibVs/edit?usp=sharing) |
 | Typescript para Angular | [Sexto resumo](https://docs.google.com/document/d/1ZjKqGOWLRpvpCFkn7AWe9OC0OWoguwrS60EzPqdcYKU/edit?usp=sharing) |
 | Introdução ao ecossistema Angular | [Sétimo resumo](https://docs.google.com/document/d/1zDCECqDm524wIoFZJ882plL-6MnoNUynrfGGNo8PIX8/edit?usp=sharing) |
+| Trabalhando com componentes Angular | [Oitavo resumo](https://docs.google.com/document/d/1mRCaMdOuO7RARWxsKfgmVvA3535AjRr2YGxz8JkU4fw/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
