@@ -20,5 +20,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | Typescript para Angular | [Sexto resumo](https://docs.google.com/document/d/1ZjKqGOWLRpvpCFkn7AWe9OC0OWoguwrS60EzPqdcYKU/edit?usp=sharing) |
 | Introdução ao ecossistema Angular | [Sétimo resumo](https://docs.google.com/document/d/1zDCECqDm524wIoFZJ882plL-6MnoNUynrfGGNo8PIX8/edit?usp=sharing) |
 | Trabalhando com componentes Angular | [Oitavo resumo](https://docs.google.com/document/d/1mRCaMdOuO7RARWxsKfgmVvA3535AjRr2YGxz8JkU4fw/edit?usp=sharing) |
+| LifeCycle Hooks Angular | [Nono resumo](https://docs.google.com/document/d/1Aj51Fvp7g31qlmWh2pfVhdE8OFpM9IiauEsG5UZYCB4/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
