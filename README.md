@@ -23,5 +23,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | LifeCycle Hooks Angular | [Nono resumo](https://docs.google.com/document/d/1Aj51Fvp7g31qlmWh2pfVhdE8OFpM9IiauEsG5UZYCB4/edit?usp=sharing) |
 | Single page application com Angular | [Décimo resumo](https://docs.google.com/document/d/1_hWld9L8WKE-kowQrNsR-wPT099BJMXTvc5QH12iFos/edit?usp=sharing) |
 | Módulos Angular | [Décimo primeiro resumo](https://docs.google.com/document/d/1zndcBds3KgHv2zwqDfjcbXz33mT_UU3z1szSgt1YO3k/edit?usp=sharing) |
+| Rotas Angular | [Décimo segundo resumo](https://docs.google.com/document/d/12b5kMU1xgkEqJOHPBAR0jzNRni7n-Uzi3_hKt4QKA8U/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
