@@ -8,6 +8,12 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 ## 📝Documentação
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
+- [Documentação Tecnologia Web para devs](https://developer.mozilla.org/pt-BR/docs/Web)
+- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference)
+- [Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Documentação JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Documentação TS](https://www.typescriptlang.org/pt/docs/)
+- [Documentação Angular](https://angular.io/docs)
 
 ## 🖥 Resumos das Aulas
 | Aulas | Resumos | 
