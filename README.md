@@ -31,5 +31,6 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 | Módulos Angular | [Décimo primeiro resumo](https://docs.google.com/document/d/1zndcBds3KgHv2zwqDfjcbXz33mT_UU3z1szSgt1YO3k/edit?usp=sharing) |
 | Rotas Angular | [Décimo segundo resumo](https://docs.google.com/document/d/12b5kMU1xgkEqJOHPBAR0jzNRni7n-Uzi3_hKt4QKA8U/edit?usp=sharing) |
 | Services Angular | [Décimo terceiro resumo](https://docs.google.com/document/d/1VdCohHzCEWQjKlhvy7ftYyH6qUxtkintCqOUCm9mHIo/edit?usp=sharing) |
+| O que é o Java? | [Décimo quarto resumo](https://docs.google.com/document/d/12h8XPmeNdP5_3vv5ExAHbd9QSCI4OFIvwI8HU0PDgQs/edit?usp=sharing) |
 ## 🔍Referências
 - [DIO](https://web.dio.me/home)
