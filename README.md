@@ -14,7 +14,7 @@ PSA: esse resumo pode não estar completo ainda, estarei atualizando regularment
 - [Documentação JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Documentação TS](https://www.typescriptlang.org/pt/docs/)
 - [Documentação Angular](https://angular.io/docs)
-
+- [Documentação Java](https://glysns.gitbook.io/java-basico/sintaxe/documentacao) 
 ## 🖥 Resumos das Aulas
 | Aulas | Resumos | 
 | -------- | -------- | 
